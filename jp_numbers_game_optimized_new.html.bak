@@ -239,8 +239,13 @@
           <li>Nhật dùng đơn vị <b>man</b> (万), <b>oku</b> (億), <b>chou</b> (兆) theo nhóm 4 chữ số.</li>
           <li>Biến âm: 300 → <b>sanbyaku</b> (さんびゃく), 600 → <b>roppyaku</b> (ろっぴゃく), 800 → <b>happyaku</b> (はっぴゃく)</li>
           <li>3000 → <b>sanzen</b> (さんぜん), 8000 → <b>hassen</b> (はっせん)</li>
+<<<<<<< HEAD
           <li>10 = <b>juu</b> (じゅう),<br> 100 = <b>hyaku</b> (ひゃく),<br> 1000 = <b>sen</b> (せん)</li>
           <li>10,000 = <b>ichi man</b> (いちまん);<br> 100,000 = <b>juu man</b> (じゅうまん);<br> 1000,000 = <b>hyaku man</b> (ひゃくまん);<br>100,000,000 = <b>ichi oku</b> (いちおく)</li>
+=======
+          <li>100 = <b>hyaku</b> (ひゃく), 1000 = <b>sen</b> (せん), 10 = <b>juu</b> (じゅう)</li>
+          <li>10,000 = <b>ichi man</b> (いちまん); 100,000,000 = <b>ichi oku</b> (いちおく)</li>
+>>>>>>> dba6ee7ed6940b4942e09bb36efb71226435c4f7
         </ul>
         <div class="section-title">Vì sao có từ "chou" ở cuối?</div>
         <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.6">
